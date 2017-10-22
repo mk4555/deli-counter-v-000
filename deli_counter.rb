@@ -10,4 +10,5 @@ def line(array)
       counter += 1
     end
   end
+  puts "#{ans}"
 end
