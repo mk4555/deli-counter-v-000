@@ -7,4 +7,5 @@ def line(array)
     print "The line is currently :"
     array.each do |a|
       print ""
+      counter += 1
 end
