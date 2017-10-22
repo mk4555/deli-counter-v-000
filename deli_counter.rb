@@ -12,3 +12,5 @@ def line(array)
   end
   puts "#{ans}"
 end
+
+def take_a_number()
