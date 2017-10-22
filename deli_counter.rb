@@ -6,7 +6,7 @@ def line(array)
   else
     puts "The line is currently: "
     array.each do |a|
-      puts "#{counter}. #{a} "
+      print "#{counter}. #{a} "
       counter += 1
     end
   end
